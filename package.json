@@ -1,0 +1,23 @@
+{
+  "name": "tale-plugin-youtube",
+  "version": "0.0.0",
+  "description": "render a youtube video in a tale chapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanramage/tale-plugin-youtube"
+  },
+  "keywords": [
+    "tale",
+    "tale-plugin"
+  ],
+  "author": "Ryan Ramage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanramage/tale-plugin-youtube/issues"
+  },
+  "homepage": "https://github.com/ryanramage/tale-plugin-youtube"
+}
