@@ -1,6 +1,6 @@
 {
   "name": "tale-plugin-youtube",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "render a youtube video in a tale chapter",
   "main": "index.js",
   "scripts": {
